@@ -1,0 +1,397 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_hard",
+    "music_url": "fnf_agoti_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_parasite",
+    "music_url": "fnf_agoti_parasite.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_parasite_normal",
+    "music_url": "fnf_agoti_parasite_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_screenplay_hard",
+    "music_url": "fnf_agoti_screenplay_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_screenplay_normal",
+    "music_url": "fnf_agoti_screenplay_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v1_normal",
+    "music_url": "fnf_agoti_v1_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v2_normal",
+    "music_url": "fnf_agoti_v2_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v3_normal",
+    "music_url": "fnf_agoti_v3_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_run",
+    "music_url": "bob_fnf_run.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_sunshine",
+    "music_url": "bob_fnf_sunshine.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_withered",
+    "music_url": "bob_fnf_withered.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_onslaught",
+    "music_url": "fnf_bob_onslaught.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_fading_easy",
+    "music_url": "fnf_garcello_fading_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_fading_hard",
+    "music_url": "fnf_garcello_fading_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_hard",
+    "music_url": "fnf_garcello_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_headache_easy",
+    "music_url": "fnf_garcello_headache_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_headache_hard",
+    "music_url": "fnf_garcello_headache_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_nervers_easy",
+    "music_url": "fnf_garcello_nervers_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_nervers_hard",
+    "music_url": "fnf_garcello_nervers_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_release_easy",
+    "music_url": "fnf_garcello_release_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_aishite",
+    "music_url": "fnf_hatsune_miku_aishite.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_disapperance_easy",
+    "music_url": "fnf_hatsune_miku_disapperance_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_disapperance_hard",
+    "music_url": "fnf_hatsune_miku_disapperance_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_love_me_easey",
+    "music_url": "fnf_hatsune_miku_love_me_easey.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_love_me_hard",
+    "music_url": "fnf_hatsune_miku_love_me_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_popipo",
+    "music_url": "fnf_hatsune_miku_popipo.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_wife_forever",
+    "music_url": "fnf_hatsune_miku_wife_forever.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_blammed_hard",
+    "music_url": "fnf_pico_blammed_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_blammed_piano_intstrument",
+    "music_url": "fnf_pico_blammed_piano_intstrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_dramatic",
+    "music_url": "fnf_pico_dramatic.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_hard",
+    "music_url": "fnf_pico_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_philly_hard",
+    "music_url": "fnf_pico_philly_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_philly_nice_piano_instrument",
+    "music_url": "fnf_pico_philly_nice_piano_instrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_piano_instrument",
+    "music_url": "fnf_pico_piano_instrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_pico_easy",
+    "music_url": "fnf_pico_pico_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_vlammed_eassy",
+    "music_url": "fnf_pico_vlammed_eassy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_manifest_v1",
+    "music_url": "fnf_sky_manifest_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_manifest_ver_2",
+    "music_url": "fnf_sky_manifest_ver_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_v1",
+    "music_url": "fnf_sky_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_v2",
+    "music_url": "fnf_sky_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_wife_forever",
+    "music_url": "fnf_sky_wife_forever.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_aspirer",
+    "music_url": "fnf_starving_artist_aspirer.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_aspirers",
+    "music_url": "fnf_starving_artist_aspirers.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_cry_baby",
+    "music_url": "fnf_starving_artist_cry_baby.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_hunger_remix",
+    "music_url": "fnf_starving_artist_hunger_remix.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_hunger_v1",
+    "music_url": "fnf_starving_artist_hunger_version_1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_v2",
+    "music_url": "fnf_starving_artist_v_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi",
+    "music_url": "fnf_tabi.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_genocide",
+    "music_url": "fnf_tabi_genocide.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_genocide_hard",
+    "music_url": "fnf_tabi_genocide_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_last_chance",
+    "music_url": "fnf_tabi_last_chance.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_my_battle",
+    "music_url": "fnf_tabi_my_battle.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation",
+    "music_url": "fnf_tricky_expurgation.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation_hard",
+    "music_url": "fnf_tricky_expurgation_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation_normal",
+    "music_url": "fnf_tricky_expurgation_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_hellclown",
+    "music_url": "fnf_tricky_hellclown.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_improbable_outset",
+    "music_url": "fnf_tricky_improbable_outset.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness",
+    "music_url": "fnf_tricky_madness.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness_hard",
+    "music_url": "fnf_tricky_madness_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness_hard_2",
+    "music_url": "fnf_tricky_madness_hard_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_3",
+    "music_url": "fnf_tricky_phase_3.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_5",
+    "music_url": "fnf_tricky_phase_5.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_7",
+    "music_url": "fnf_tricky_phase_7.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_balistic",
+    "music_url": "fnf_whitty_balistic.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_balistic_v2",
+    "music_url": "fnf_whitty_balistic_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_hearbass",
+    "music_url": "fnf_whitty_hearbass.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v1",
+    "music_url": "fnf_whitty_lo_fight_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v2",
+    "music_url": "fnf_whitty_lo_fight_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v3",
+    "music_url": "fnf_whitty_lo_fight_v3.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v4",
+    "music_url": "fnf_whitty_lo_fight_v4.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_gihtuv",
+    "music_url": "fnf_whitty_lo_gihtuv.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_overhead_v1",
+    "music_url": "fnf_whitty_overhead_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_overhead_v2",
+    "music_url": "fnf_whitty_overhead_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_whitrolls",
+    "music_url": "fnf_whitty_whitrolls.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_withrolls_2",
+    "music_url": "fnf_whitty_withrolls_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/z_mix/",
+    "music_title": "dad_battle",
+    "music_url": "dad_battle.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/z_mix/",
+    "music_title": "milf",
+    "music_url": "milf.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/z_mix/",
+    "music_title": "songs",
+    "music_url": "songs.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/z_mix/",
+    "music_title": "spookee",
+    "music_url": "spookee.ogg"
+  }
+]

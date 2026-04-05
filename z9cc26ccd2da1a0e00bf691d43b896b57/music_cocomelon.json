@@ -1,0 +1,102 @@
+[
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "christmas_at_the_farm",
+    "music_url": "christmas_at_the_farm.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "doctor_checkup",
+    "music_url": "doctor_checkup.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "freeze_dance",
+    "music_url": "freeze_dance.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "halloween_at_school",
+    "music_url": "halloween_at_school.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "halloween_costume",
+    "music_url": "halloween_costume.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "harvest_stew",
+    "music_url": "harvest_stew.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "hide_and_go_seek_in_the_snow",
+    "music_url": "hide_and_go_seek_in_the_snow.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "nature_walk",
+    "music_url": "nature_walk.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "playdate_with_cody",
+    "music_url": "playdate_with_cody.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "quiet_time_song",
+    "music_url": "quiet_time_song.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "shadow_puppets",
+    "music_url": "shadow_puppets.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "special_dinosaur_day",
+    "music_url": "special_dinosaur_day.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "thank_you",
+    "music_url": "thank_you.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "this_little_piggy",
+    "music_url": "this_little_piggy.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "tie_your_shoes",
+    "music_url": "tie_your_shoes.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "tomtoms_holiday_giving_story",
+    "music_url": "tomtoms_holiday_giving_story.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "train",
+    "music_url": "train.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "wheels_on_the_bus",
+    "music_url": "wheels_on_the_bus.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "winter_show_and_tell_at_school",
+    "music_url": "winter_show_and_tell_at_school.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/cocomelon/",
+    "music_title": "yes_yes_bedtime_camping",
+    "music_url": "yes_yes_bedtime_camping.mp3"
+  }
+]
